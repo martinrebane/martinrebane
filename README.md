@@ -1,5 +1,6 @@
-## Hi there 👋
+## Martin Rebane 👋
 
+Engineer and researcher. Working on AI models for robotics and manufacturing.
 <!--
 **martinrebane/martinrebane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
