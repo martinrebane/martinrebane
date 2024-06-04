@@ -1,4 +1,4 @@
-## Martin Rebane 👋
+## Martin Rebane
 
 Engineer and researcher. Working on AI models for robotics and manufacturing.
 <!--
